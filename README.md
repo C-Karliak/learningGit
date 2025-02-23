@@ -13,3 +13,5 @@ Star topology is one of the most popular network configurations in which all dev
 ## Overview
 This is a class diagram for a flower class, showcasing attributes and methods to show Object-Oriented Programming concepts
 ### Network Design png is network diagram representing a bus tapology, including newtorking components such as computers, a printer, and router showing how they interconnect within the network
+# SQLQuery.png
+## This respitory contains SQL query that retrieves records from oderdetails table where Quantity is greater than 20 and results are ascending order by Product ID
